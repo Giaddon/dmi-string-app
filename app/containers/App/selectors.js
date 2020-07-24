@@ -1,3 +1,7 @@
+/**
+ * The app state selectors
+ */
+
 import { createSelector } from 'reselect';
 
 const selectRouter = state => state.router;
